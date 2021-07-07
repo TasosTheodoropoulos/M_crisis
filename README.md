@@ -14,14 +14,13 @@ including $\Lambda CDM$, and $H(z)$ deformation models like $wCDM$ (constant equ
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*Hints for a gravitational constant transition in Tully-Fisher data*
-<br>George Alestas, Ioannis Antoniou and Leandros Perivolaropoulos, [arxiv:2104.14481](https://arxiv.org/abs/2104.14481)
+<br>*The M crisis of late time H(z) deformation models addressing the Hubble tension*
+<br>Anastasios Theodoropoulos and Leandros Perivolaropoulos, [arxiv:2104.14481](https://arxiv.org/abs/2104.14481)
 
 Any further questions/comments are welcome.
 
 
 ## Authors List
-George Alestas - <g.alestas@uoi.gr>
-<br>Ioannis Antoniou - <i.antoniou@uoi.gr>
+Anastasios Theodoropoulos - <theodorotasos@gmail.com>
 <br>Leandros Perivolaropoulos - <leandros@uoi.gr>
 

@@ -1,4 +1,4 @@
-# Hints for a gravitational constant transition in Tully-Fisher data
+# The M crisis of late time H(z) deformation models addressing the Hubble tension
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 

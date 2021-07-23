@@ -1,4 +1,4 @@
-# The M crisis of late time H(z) deformation models addressing the Hubble tension
+# The Hubble tension, the $M$ crisis of late time $H(z)$ deformation models and the reconstruction of quintessence Lagrangians
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 

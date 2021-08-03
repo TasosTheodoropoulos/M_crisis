@@ -6,7 +6,7 @@
 <img src="preview.png" width="700" title="preview" />
 </p>
 
-This is the repository that contains the Mathematica code as well as useful comments that reproduce the figures of [arxiv:2104.14481](https://arxiv.org/abs/2104.14481).
+This is the repository that contains the Mathematica code as well as useful comments that reproduce the figures of .
 
 ## Abstract
 We present a detailed and pedagogical analysis of recent cosmological  data including CMB, BAO,  SnIa and the recent local measurement of $H_0$. We thus obtain constraints on the parameters of these standard Dark Energy parametrizations
@@ -14,9 +14,8 @@ including ΛCDM, and H(z) deformation models like wCDM (constant equation of sta
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*The M crisis of late time H(z) deformation models addressing the Hubble tension*
-<br>Anastasios Theodoropoulos and Leandros Perivolaropoulos, [arxiv:2104.14481](https://arxiv.org/abs/2104.14481)
-
+<br>*The Hubble tension, the M crisis of late time H(z) deformation models and the reconstruction of quintessence Lagrangians*
+<br>Anastasios Theodoropoulos and Leandros Perivolaropoulos, 
 Any further questions/comments are welcome.
 
 
